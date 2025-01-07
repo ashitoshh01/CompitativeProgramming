@@ -2198,10 +2198,3 @@ int main(){
     free(ptr);
 }
 */
-
-
-#include <stdio.h>
-int main(){
-    printf("Hello revision..!");
-    return 0;
-}
