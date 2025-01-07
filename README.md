@@ -5,4 +5,4 @@
     <th>Ashitosh</th>
     <th>Ashok</th>
     <th>Lavhate</th>
-</tabel>
+</table>
